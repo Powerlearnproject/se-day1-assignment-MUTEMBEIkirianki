@@ -47,7 +47,7 @@ Maintenance – Provide ongoing support and updates.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
-4. Waterfall vs. Agile Methodologies
+Waterfall vs. Agile Methodologies
 
 Waterfall Methodology
 
